@@ -1,0 +1,8 @@
+IntitComplet -> IntitAbrege
+IntitAbrege -> IntitComplet
+NoINE -> NomEtu , DepartNaissEtu
+NoINE , IntitComplet -> Annee
+NoINE , IntitAbrege -> Annee
+NoImmatChiffres , NoImmatLettres , NoImmatDepart -> Couleur , NoINE , NomEtu , DepartNaissEtu
+NoImmatChiffres , NoImmatLettres , NoImmatDepart , IntitComplet -> Annee
+NoImmatChiffres , NoImmatLettres , NoImmatDepart , IntitAbrege -> Annee

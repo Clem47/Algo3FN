@@ -1,0 +1,4 @@
+CLS_Num -> CLS_Intit 
+ELV_Id -> CLS_Num , ELV_Nom , ELV_AnneeNais , ELV_VilleNais 
+ELV_Id , RCP_Annee -> RCP_ 
+ELV_Id , EPR_Abrv -> EPR_Note 

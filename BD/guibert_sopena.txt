@@ -1,0 +1,7 @@
+a -> b , e
+b , e -> g
+g -> i
+i -> n , o , p
+p -> r
+r -> s
+s -> t , u
